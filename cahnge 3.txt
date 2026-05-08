@@ -1,0 +1,6 @@
+Git, GitHub, GitLab, Bitbucket
+
+Git - its a distributed Version control system or software that allows us to tack the change we made to documents or source code -code.
+
+
+GitHub, GitLab, Bitbucket - online/over the internet - hosting platform. they host Git repository(a folder that has the tracked file) over the internet.
